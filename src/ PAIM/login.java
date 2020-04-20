@@ -105,12 +105,8 @@ public class login extends javax.swing.JFrame {
 
    String clavedef=new String(clave);
 
-
-
-  if (User.getText().equals("Braulio") && clavedef.equals("123")){ 
-// Contraseña y Usuario " Braulio" y "123"
-
-
+if(Usuario.getText().equals("lizeth)&&clavedef.equals("123")){ 
+                            
          this.dispose();
 
          

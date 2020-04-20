@@ -1,3 +1,5 @@
+//LIZETH AHUMADA CAZAREZ
+
 
 package PAIM;
 
@@ -105,7 +107,8 @@ public class login extends javax.swing.JFrame {
 
    String clavedef=new String(clave);
 
-if(Usuario.getText().equals("lizeth)&&clavedef.equals("123")){ 
+if(Usuario.getText().equals("lizeth")&&clavedef.equals("123")){ 
+  //Usuario:"lizeth"  Contraseña:"123!
                             
          this.dispose();
 

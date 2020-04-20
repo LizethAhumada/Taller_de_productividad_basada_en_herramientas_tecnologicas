@@ -1,5 +1,8 @@
 # Taller de productividad basada en herramientas tecnologicas
 
+
+## CIGUEÑALES PAIM
+
 ## Descripcion
    Es una herramienta de gestion de base de datos para el manejo y analisis de la informacion y desarrollo de reportes, desarrollada en el lenguaje de JAVA para uso interno de la empresa con el objetivo de poder resolver la problematica que se nos presenta.
 
@@ -109,6 +112,10 @@
 ## Roadmap
   Con forme se vay implementeando la aplicacion dentro de la empresa y con la experiencia de los usuarios del area de corrosion, podremos identificar errores y con eso ellos nos podran notificar y decir que es lo que podemos mejorar en el software.
   Se planea sacar actualizciones y mejoras del software cada 2 meses hasta que lleguemos a la version mas estable y completa. y de alli cada 6 meses alguna actualizacion de rendimiento o etc
+
+## Create
+Lizeth Ahumada Cazarez 2817790
+Universidad TecMilenio
 
 
 
